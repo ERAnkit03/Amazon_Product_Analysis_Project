@@ -232,25 +232,6 @@ Weak correlation exists between discounts and product ratings.
 
 ---
 
-# 📷 Sample Visualizations
-
-## Product Categories
-
-<img width="800" alt="Category Chart" src="images/category_chart.png">
-
----
-
-## Price Distribution
-
-<img width="800" alt="Price Distribution" src="images/price_distribution.png">
-
----
-
-## Correlation Heatmap
-
-<img width="800" alt="Heatmap" src="images/heatmap.png">
-
----
 
 # 🔍 Key Insights
 
@@ -420,6 +401,7 @@ This project is licensed under the MIT License.
 
 ## Your Name
 
+ER. Ankit Pawar
 Aspiring AI/ML & Data Science Developer
 
 ---
@@ -433,16 +415,3 @@ If you found this project useful:
 ⭐ Share feedback
 
 ---
-
-# 📬 Contact
-
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-# 🚀 Final Note
-
-This project is a beginner-friendly yet practical implementation of real-world data analysis using Python.
-
-It demonstrates how raw business data can be transformed into valuable insights through cleaning, analysis, and visuali
